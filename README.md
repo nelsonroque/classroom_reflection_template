@@ -8,6 +8,7 @@ Feel free to use this resource in your classroom too!
 
 1. Open the file `PSU_Bennett_Family_Center_Reflection_Template.pptx` with Microsoft Powerpoint
 2. Click 'New Slide' and choose from the available templates.
+
    ![how to add new slide](docs/newslide.png)
 3. Edit the `Classroom Name` in the top left corner.
 4. Edit the `Daily Message` and `PA Learning Standards` that are applicable to the lessons of the day.
